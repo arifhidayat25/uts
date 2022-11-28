@@ -15,16 +15,6 @@ body {
     text-align: center;
     margin-top: 5px;
 }
-.satu {
-    color: rgb(255, 253, 253);
-    font-weight: 500;
-    font-size: 30px;
-}
-.dua {
-    color: rgb(2, 2, 2);
-    font-weight: 500;
-    font-size: 30px;
-}
 nav {
     background-color: rgba(0, 0, 0, 0.705);
     height: 120px;
